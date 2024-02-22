@@ -7,5 +7,3 @@ Proativo em diversos projetos de tecnologia e inovação, compartilhando experi�
 *   🌍  Lavras, Minas Gerais, Brazil
 *   🖥️  http://leandroboari.com
 *   ✉️  contato@leandroboari.com
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroboari&layout=compact&langs_count=16"/>
